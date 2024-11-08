@@ -57,12 +57,12 @@ body {
 }
 
 /* Уникальные стили фонов для каждой карточки */
-.card1 { background-image: url('img/card.png'); /* Замените на URL первой карточки */ }
-.card2 { background-image: url('img/card.png'); /* Замените на URL второй карточки */ }
-.card3 { background-image: url('img/card.png'); /* Замените на URL третьей карточки */ }
-.card4 { background-image: url('img/card.png'); /* Замените на URL четвертой карточки */ }
-.card5 { background-image: url('img/card.png'); /* Замените на URL пятой карточки */ }
-.card6 { background-image: url('img/card.png'); /* Замените на URL шестой карточки */ }
+.card1 { background-image: url('../img/card.png'); /* Замените на URL первой карточки */ }
+.card2 { background-image: url('../img/card.png'); /* Замените на URL второй карточки */ }
+.card3 { background-image: url('../img/card.png'); /* Замените на URL третьей карточки */ }
+.card4 { background-image: url('../img/card.png'); /* Замените на URL четвертой карточки */ }
+.card5 { background-image: url('../img/card.png'); /* Замените на URL пятой карточки */ }
+.card6 { background-image: url('../img/card.png'); /* Замените на URL шестой карточки */ }
 
 /* Тёмный прозрачный слой для текста */
 .menu-card::before {
